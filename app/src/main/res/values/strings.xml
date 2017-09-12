@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Tourisguideapp</string>
+    <string name="welcome">Welcome To City Of Joburg Tour Guide</string>
+    <string name="subtext">Tap Here To Continue</string>
+    <string name="outdoor">Outdoor</string>
+    <string name="hotels">Hotels</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="multimedia">Multimedia</string>
+    <string name="tourist">Tourist Spots</string>
+
+
+    <string name="mcdonalds">McDonalds</string>
+    <string name="dominos">Debonairs Pizza</string>
+    <string name="cinepolis">Mr Chips</string>
+    <string name="kfc">KFC</string>
+    <string name="subway">Nandos</string>
+    <string name="bbq">Spur</string>
+
+
+    <string name="elante">Ellis Park Stadium</string>
+    <string name="piccadily">Sterkirenkor</string>
+    <string name="wave">Cinema</string>
+
+
+    <string name="haze">Summit Night Club</string>
+    <string name="paara">Skyline Night Club</string>
+    <string name="score"> News Cafe Night Club</string>
+    <string name="cheeky"> Cheeky Tigers Night Club</string>
+    <string name="hangout">Razz_Matazz Night Club</string>
+
+
+    <string name="lake">Joburg Theatre</string>
+    <string name="rock">Constitutional Hill</string>
+    <string name="rose">Parkstation</string>
+    <string name="zoo">Joburg Zoo</string>
+    <string name="museum">Joburg Theatre</string>
+
+
+    <string name="jw">Four Seasons Hotel</string>
+    <string name="lalit">Parkstation Hotel</string>
+    <string name="shivalik">Protea Hotel</string>
+    <string name="taj">Royal Hotel</string>
+    <string name="lemon">Hyatt Regency Hotel</string>
+
+    <string name="title_activity_primary">PrimaryActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="Sterkrinkor">sterkrinkor</string>
+    <string name="Cinema">cinema</string>
+    <string name="cinema">Cinema</string>
+    <string name="sterkrinkor">Sterkrinkor</string>
+    <string name="sabc">SABC</string>
+    <string name="SABC">SABC</string>
+    <string name="Joburg_Sight_Seeing">joburg_sight_seeing</string>
+    <string name="Maboneng">Maboneng</string>
+    <string name="The_Bioscope">The_Bioscope</string>
+    <string name="sterkinkor">Sterkinkor</string>
+    <string name="Airport">Airport</string>
+    <string name="Bioscope">Bioscope</string>
+    <string name="cinemas">cinemas</string>
+    <string name="club">clubs</string>
+
+</resources>
+

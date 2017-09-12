@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.admin.tourisguideapp.category">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:elevation="4dp"
+        android:layout_margin="5dp"
+        android:background="#67737b">
+
+        <TextView
+            android:id="@+id/restaurants"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="?android:selectableItemBackground"
+            android:gravity="center_vertical"
+            android:text="@string/restaurants"
+            android:textAlignment="center"
+            android:textColor="#9e8585"
+            android:textSize="20sp" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:elevation="4dp"
+        android:layout_margin="5dp"
+        android:layout_weight="1"
+        android:background="#640e27">
+
+        <TextView
+            android:id="@+id/cinemas"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="?android:selectableItemBackground"
+            android:gravity="center_vertical"
+            android:text="@string/cinemas"
+            android:textAlignment="center"
+            android:textColor="#286627"
+            android:textSize="20sp" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="5dp"
+        android:layout_weight="1"
+        android:elevation="4dp"
+        android:background="#af2396">
+
+        <TextView
+            android:id="@+id/clubs"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="?android:selectableItemBackground"
+            android:gravity="center_vertical"
+            android:text="@string/club"
+            android:textAlignment="center"
+            android:textColor="#d67c7c"
+            android:textSize="20sp" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="5dp"
+        android:layout_weight="1"
+        android:elevation="4dp"
+        android:background="#2e2243">
+
+        <TextView
+            android:id="@+id/tourists"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="?android:selectableItemBackground"
+            android:gravity="center_vertical"
+            android:text="@string/tourist"
+            android:textAlignment="center"
+            android:textColor="#31411b"
+            android:textSize="20sp" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="5dp"
+        android:layout_weight="1"
+        android:elevation="4dp"
+        android:background="#4a999b">
+
+        <TextView
+            android:id="@+id/hotels"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="?android:selectableItemBackground"
+            android:gravity="center_vertical"
+            android:text="@string/hotels"
+            android:textAlignment="center"
+            android:textColor="#b18240"
+            android:textSize="20sp" />
+    </FrameLayout>
+
+</LinearLayout>
